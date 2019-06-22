@@ -14,7 +14,10 @@ namespace WebAppTW.DAL
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            // esse cara deve criar a base, mas não tinha no código original então removi.
             //base.OnModelCreating(modelBuilder);
+            
+            //Acho que esse cara aqui remove a base de dados caso encontre alguma divergencia :S 
             modelBuilder.Conventions.Remove<PluralizingEntitySetNameConvention>();
         }
 

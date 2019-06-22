@@ -13,6 +13,6 @@ namespace WebAppTW.Models
         public string Title { get; set; }
         public int Credits { get; set; }
 
-        public virtual ICollection<Enrollment> Enrollments { get; set }
+        public virtual ICollection<Enrollment> Enrollments { get; set; }
     }
 }

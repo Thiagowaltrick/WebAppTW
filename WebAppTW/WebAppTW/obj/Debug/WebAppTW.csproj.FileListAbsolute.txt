@@ -76,8 +76,12 @@ D:\GitHub\WebAppTW\WebAppTW\WebAppTW\bin\pt-br\System.Web.Razor.resources.dll
 D:\GitHub\WebAppTW\WebAppTW\WebAppTW\bin\pt-br\System.Web.WebPages.resources.dll
 D:\GitHub\WebAppTW\WebAppTW\WebAppTW\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
 D:\GitHub\WebAppTW\WebAppTW\WebAppTW\bin\pt-br\System.Web.WebPages.Razor.resources.dll
-D:\GitHub\WebAppTW\WebAppTW\WebAppTW\obj\Debug\WebAppTW.csprojAssemblyReference.cache
 D:\GitHub\WebAppTW\WebAppTW\WebAppTW\obj\Debug\WebAppTW.csproj.CoreCompileInputs.cache
 D:\GitHub\WebAppTW\WebAppTW\WebAppTW\obj\Debug\WebAppTW.csproj.CopyComplete
 D:\GitHub\WebAppTW\WebAppTW\WebAppTW\obj\Debug\WebAppTW.dll
 D:\GitHub\WebAppTW\WebAppTW\WebAppTW\obj\Debug\WebAppTW.pdb
+D:\GitHub\WebAppTW\WebAppTW\WebAppTW\bin\EntityFramework.dll
+D:\GitHub\WebAppTW\WebAppTW\WebAppTW\bin\EntityFramework.SqlServer.dll
+D:\GitHub\WebAppTW\WebAppTW\WebAppTW\bin\EntityFramework.xml
+D:\GitHub\WebAppTW\WebAppTW\WebAppTW\bin\EntityFramework.SqlServer.xml
+D:\GitHub\WebAppTW\WebAppTW\WebAppTW\obj\Debug\WebAppTW.csprojAssemblyReference.cache

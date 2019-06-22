@@ -3,10 +3,14 @@
     "",
     "\\WebAppTW",
     "\\WebAppTW\\WebAppTW",
+    "\\WebAppTW\\WebAppTW\\Controllers",
+    "\\WebAppTW\\WebAppTW\\DAL",
+    "\\WebAppTW\\WebAppTW\\Models",
+    "\\WebAppTW\\WebAppTW\\obj",
     "\\WebAppTW\\WebAppTW\\Views",
     "\\WebAppTW\\WebAppTW\\Views\\Home",
     "\\WebAppTW\\WebAppTW\\Views\\Shared"
   ],
-  "SelectedNode": "\\WebAppTW\\WebAppTW\\Views\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\WebAppTW\\WebAppTW\\Controllers",
   "PreviewInSolutionExplorer": false
 }
